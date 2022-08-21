@@ -4,6 +4,6 @@
 
 This is the GitHub organization for **FINCH**, a hyperspectral imaging CubeSat, and the second satellite made by the University of Toronto Aerospace Team Space Systems division (_UTAT Space Systems, UTAT-SS_). Here you'll find the code used by the FINCH mission, including the onboard firmware, orbital analysis tools, and operations planning.
 
-You can find some of our biggest repos pinned to this page. We also have a list of [repos external to the organization](https://www.notion.so/utat-ss/GitHub-60cc2338aa4b48dbbea8316c1ee0e102) (internal link). Our documentation and planning is hosted on [Confluence](https://spacesys.utat.ca/confluence/display/FIN/FINCH), and we're currently moving over to Notion.
+You can find some of our biggest repos pinned to this page. We also have a list of [repos external to the organization](https://www.notion.so/utat-ss/GitHub-60cc2338aa4b48dbbea8316c1ee0e102). Our documentation and planning is hosted on [Notion](https://utat-ss.notion.site/UTAT-Space-Systems-660068a07b694305b56c483962e927c5).
 
 Learn more about us on [utat.ca](https://www.utat.ca/space-systems), or send an email to `ss-outreach at utat dot ca`.
