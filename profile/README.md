@@ -1,11 +1,11 @@
-<head><link rel="stylesheet" href="../styles/readme-style.css"></head>
+<head><link rel="stylesheet" href="https://raw.githubusercontent.com/utat-ss/.github/main/styles/readme-style.css"></head>
 
 # Hey, welcome to UTAT Space Systems 🛰️
 
 <div class="patches-grid">
-<img class="patch finch" src="../assets/FINCH-patch-2022.png">
-<img class="patch utat" src="../assets/UTAT-patch-2022.png"/>
-<img class="patch heron" src="../assets/HERONMkII-patch-2022.png">
+<img class="patch finch" src="https://raw.githubusercontent.com/utat-ss/.github/main/assets/UTAT-patch-2022.png">
+<img class="patch utat" src="https://raw.githubusercontent.com/utat-ss/.github/main/assets/UTAT-patch-2022.png"/>
+<img class="patch heron" src="https://raw.githubusercontent.com/utat-ss/.github/main/assets/HERONMkII-patch-2022.png">
 </div>
 
 This is the GitHub org for Space Systems, the student-run, student-funded, CubeSat design team at the University of Toronto. Here, you'll find the code used by our missions, including onboard firmware, analysis tools, and prototype code.
