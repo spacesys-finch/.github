@@ -1,4 +1,3 @@
-# UTAT Space System - FINCH
+# UTAT Space Systems
 
-Welcome to the GitHub homepage for Space Systems.
-
+Welcome to Space Systems, the student-run, student-funded CubeSat team from the University of Toronto Aerospace Team.
